@@ -1,0 +1,2 @@
+# serra-pocket-assistant
+This is the ideal solution for the interface between your employees and the company. Employees can interact with the Pocket Personal Bot to get different types of documents from HR compiled by the Robot and delivered directly their pocket device. This can also be used to get data from different systems and it can help you manage the internal rewarding process of your company.
